@@ -5,7 +5,7 @@
 
 
 class Data:
-
+    """单例类"""
     instance = None
 
     def __init__(self):
